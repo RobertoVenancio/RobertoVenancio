@@ -53,18 +53,6 @@
 ---
 
 
-## 📊 Estatísticas
-
-💻 Java: ██████████ 80%
-
-🟨 JavaScript: ██████░░░░ 60%
-
-🌐 HTML: ███████░░░ 70%
-
-🎨 CSS: ██████░░░░ 60%
-
-🗄️ MySQL: █████░░░░░ 50%
-
 
 📚 Atualmente aprendendo JavaScript e desenvolvendo novos projetos para fortalecer minhas habilidades.
 ---
