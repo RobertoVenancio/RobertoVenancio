@@ -32,8 +32,6 @@
 
 <img src="https://skillicons.dev/icons?i=javascript"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
