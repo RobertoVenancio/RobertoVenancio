@@ -62,7 +62,7 @@
 
 ## 📫 Contato
 
-💼 LinkedIn: Seu LinkedIn
+💼 LinkedIn:(http://www.linkedin.com/in/roberto-venancio-23b7793a7)
 
 📧 Email: robertovenancio21@gmail.com
 
