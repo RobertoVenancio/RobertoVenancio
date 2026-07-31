@@ -52,12 +52,21 @@
 
 ---
 
-## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+💻 Java: ██████████ 80%
 
+🟨 JavaScript: ██████░░░░ 60%
+
+🌐 HTML: ███████░░░ 70%
+
+🎨 CSS: ██████░░░░ 60%
+
+🗄️ MySQL: █████░░░░░ 50%
+
+
+📚 Atualmente aprendendo JavaScript e desenvolvendo novos projetos para fortalecer minhas habilidades.
 ---
 
 ## 📫 Contato
