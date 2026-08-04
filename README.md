@@ -46,7 +46,7 @@
 
 💳 Sistema de Cartão (Java)
 
-🌐 Site simples (JS,CSS,HTML)
+🌐 Lista de Tarefas Simples (JS,CSS,HTML)
 
 ---
 
