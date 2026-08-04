@@ -44,11 +44,9 @@
 
 📚 Sistema de Biblioteca (Java)
 
-👨‍🎓 Cadastro de Alunos (Java)
-
 💳 Sistema de Cartão (Java)
 
-🌐 Projetos HTML e JavaScript (Em andamento)
+🌐 Site simples (JS,CSS,HTML)
 
 ---
 
